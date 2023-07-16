@@ -174,4 +174,8 @@ span{
         font-size: 40px;
         width: 100vw;
     }
+
+    .feature-btn{
+        margin-left: 70px;
+    }
 }
